@@ -1,0 +1,10 @@
+# dataset (download separately - see README)
+ml-latest-small/
+ml-latest-small.zip
+# generated data
+exports/
+last_export.txt
+__pycache__/
+*.pyc
+metastore_db/
+derby.log
